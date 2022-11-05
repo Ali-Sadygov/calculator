@@ -1,1 +1,2 @@
-A calculator I wrote in JavaScript
+A calculator I wrote in jQuery
+
